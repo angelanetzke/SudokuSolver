@@ -144,6 +144,7 @@
             // 
             // comboBox1_1
             // 
+            this.comboBox1_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_1.FormattingEnabled = true;
             this.comboBox1_1.Items.AddRange(new object[] {
             " ",
@@ -163,6 +164,7 @@
             // 
             // comboBox1_2
             // 
+            this.comboBox1_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_2.FormattingEnabled = true;
             this.comboBox1_2.Items.AddRange(new object[] {
             " ",
@@ -182,6 +184,7 @@
             // 
             // comboBox1_3
             // 
+            this.comboBox1_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_3.FormattingEnabled = true;
             this.comboBox1_3.Items.AddRange(new object[] {
             " ",
@@ -201,6 +204,7 @@
             // 
             // comboBox1_6
             // 
+            this.comboBox1_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_6.FormattingEnabled = true;
             this.comboBox1_6.Items.AddRange(new object[] {
             " ",
@@ -220,6 +224,7 @@
             // 
             // comboBox1_5
             // 
+            this.comboBox1_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_5.FormattingEnabled = true;
             this.comboBox1_5.Items.AddRange(new object[] {
             " ",
@@ -239,6 +244,7 @@
             // 
             // comboBox1_4
             // 
+            this.comboBox1_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_4.FormattingEnabled = true;
             this.comboBox1_4.Items.AddRange(new object[] {
             " ",
@@ -258,6 +264,7 @@
             // 
             // comboBox1_9
             // 
+            this.comboBox1_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_9.FormattingEnabled = true;
             this.comboBox1_9.Items.AddRange(new object[] {
             " ",
@@ -277,6 +284,7 @@
             // 
             // comboBox1_8
             // 
+            this.comboBox1_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_8.FormattingEnabled = true;
             this.comboBox1_8.Items.AddRange(new object[] {
             " ",
@@ -296,6 +304,7 @@
             // 
             // comboBox1_7
             // 
+            this.comboBox1_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox1_7.FormattingEnabled = true;
             this.comboBox1_7.Items.AddRange(new object[] {
             " ",
@@ -332,6 +341,7 @@
             // 
             // comboBox2_9
             // 
+            this.comboBox2_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_9.FormattingEnabled = true;
             this.comboBox2_9.Items.AddRange(new object[] {
             " ",
@@ -351,6 +361,7 @@
             // 
             // comboBox2_8
             // 
+            this.comboBox2_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_8.FormattingEnabled = true;
             this.comboBox2_8.Items.AddRange(new object[] {
             " ",
@@ -370,6 +381,7 @@
             // 
             // comboBox2_7
             // 
+            this.comboBox2_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_7.FormattingEnabled = true;
             this.comboBox2_7.Items.AddRange(new object[] {
             " ",
@@ -389,6 +401,7 @@
             // 
             // comboBox2_6
             // 
+            this.comboBox2_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_6.FormattingEnabled = true;
             this.comboBox2_6.Items.AddRange(new object[] {
             " ",
@@ -408,6 +421,7 @@
             // 
             // comboBox2_5
             // 
+            this.comboBox2_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_5.FormattingEnabled = true;
             this.comboBox2_5.Items.AddRange(new object[] {
             " ",
@@ -427,6 +441,7 @@
             // 
             // comboBox2_4
             // 
+            this.comboBox2_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_4.FormattingEnabled = true;
             this.comboBox2_4.Items.AddRange(new object[] {
             " ",
@@ -446,6 +461,7 @@
             // 
             // comboBox2_3
             // 
+            this.comboBox2_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_3.FormattingEnabled = true;
             this.comboBox2_3.Items.AddRange(new object[] {
             " ",
@@ -465,6 +481,7 @@
             // 
             // comboBox2_2
             // 
+            this.comboBox2_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_2.FormattingEnabled = true;
             this.comboBox2_2.Items.AddRange(new object[] {
             " ",
@@ -484,6 +501,7 @@
             // 
             // comboBox2_1
             // 
+            this.comboBox2_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox2_1.FormattingEnabled = true;
             this.comboBox2_1.Items.AddRange(new object[] {
             " ",
@@ -520,6 +538,7 @@
             // 
             // comboBox3_9
             // 
+            this.comboBox3_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_9.FormattingEnabled = true;
             this.comboBox3_9.Items.AddRange(new object[] {
             " ",
@@ -539,6 +558,7 @@
             // 
             // comboBox3_8
             // 
+            this.comboBox3_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_8.FormattingEnabled = true;
             this.comboBox3_8.Items.AddRange(new object[] {
             " ",
@@ -558,6 +578,7 @@
             // 
             // comboBox3_7
             // 
+            this.comboBox3_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_7.FormattingEnabled = true;
             this.comboBox3_7.Items.AddRange(new object[] {
             " ",
@@ -577,6 +598,7 @@
             // 
             // comboBox3_6
             // 
+            this.comboBox3_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_6.FormattingEnabled = true;
             this.comboBox3_6.Items.AddRange(new object[] {
             " ",
@@ -596,6 +618,7 @@
             // 
             // comboBox3_5
             // 
+            this.comboBox3_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_5.FormattingEnabled = true;
             this.comboBox3_5.Items.AddRange(new object[] {
             " ",
@@ -615,6 +638,7 @@
             // 
             // comboBox3_4
             // 
+            this.comboBox3_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_4.FormattingEnabled = true;
             this.comboBox3_4.Items.AddRange(new object[] {
             " ",
@@ -634,6 +658,7 @@
             // 
             // comboBox3_3
             // 
+            this.comboBox3_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_3.FormattingEnabled = true;
             this.comboBox3_3.Items.AddRange(new object[] {
             " ",
@@ -653,6 +678,7 @@
             // 
             // comboBox3_2
             // 
+            this.comboBox3_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_2.FormattingEnabled = true;
             this.comboBox3_2.Items.AddRange(new object[] {
             " ",
@@ -672,6 +698,7 @@
             // 
             // comboBox3_1
             // 
+            this.comboBox3_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox3_1.FormattingEnabled = true;
             this.comboBox3_1.Items.AddRange(new object[] {
             " ",
@@ -708,6 +735,7 @@
             // 
             // comboBox4_9
             // 
+            this.comboBox4_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_9.FormattingEnabled = true;
             this.comboBox4_9.Items.AddRange(new object[] {
             " ",
@@ -727,6 +755,7 @@
             // 
             // comboBox4_8
             // 
+            this.comboBox4_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_8.FormattingEnabled = true;
             this.comboBox4_8.Items.AddRange(new object[] {
             " ",
@@ -746,6 +775,7 @@
             // 
             // comboBox4_7
             // 
+            this.comboBox4_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_7.FormattingEnabled = true;
             this.comboBox4_7.Items.AddRange(new object[] {
             " ",
@@ -765,6 +795,7 @@
             // 
             // comboBox4_6
             // 
+            this.comboBox4_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_6.FormattingEnabled = true;
             this.comboBox4_6.Items.AddRange(new object[] {
             " ",
@@ -784,6 +815,7 @@
             // 
             // comboBox4_5
             // 
+            this.comboBox4_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_5.FormattingEnabled = true;
             this.comboBox4_5.Items.AddRange(new object[] {
             " ",
@@ -803,6 +835,7 @@
             // 
             // comboBox4_4
             // 
+            this.comboBox4_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_4.FormattingEnabled = true;
             this.comboBox4_4.Items.AddRange(new object[] {
             " ",
@@ -822,6 +855,7 @@
             // 
             // comboBox4_3
             // 
+            this.comboBox4_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_3.FormattingEnabled = true;
             this.comboBox4_3.Items.AddRange(new object[] {
             " ",
@@ -841,6 +875,7 @@
             // 
             // comboBox4_2
             // 
+            this.comboBox4_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_2.FormattingEnabled = true;
             this.comboBox4_2.Items.AddRange(new object[] {
             " ",
@@ -860,6 +895,7 @@
             // 
             // comboBox4_1
             // 
+            this.comboBox4_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox4_1.FormattingEnabled = true;
             this.comboBox4_1.Items.AddRange(new object[] {
             " ",
@@ -896,6 +932,7 @@
             // 
             // comboBox5_9
             // 
+            this.comboBox5_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_9.FormattingEnabled = true;
             this.comboBox5_9.Items.AddRange(new object[] {
             " ",
@@ -915,6 +952,7 @@
             // 
             // comboBox5_8
             // 
+            this.comboBox5_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_8.FormattingEnabled = true;
             this.comboBox5_8.Items.AddRange(new object[] {
             " ",
@@ -934,6 +972,7 @@
             // 
             // comboBox5_7
             // 
+            this.comboBox5_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_7.FormattingEnabled = true;
             this.comboBox5_7.Items.AddRange(new object[] {
             " ",
@@ -953,6 +992,7 @@
             // 
             // comboBox5_6
             // 
+            this.comboBox5_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_6.FormattingEnabled = true;
             this.comboBox5_6.Items.AddRange(new object[] {
             " ",
@@ -972,6 +1012,7 @@
             // 
             // comboBox5_5
             // 
+            this.comboBox5_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_5.FormattingEnabled = true;
             this.comboBox5_5.Items.AddRange(new object[] {
             " ",
@@ -991,6 +1032,7 @@
             // 
             // comboBox5_4
             // 
+            this.comboBox5_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_4.FormattingEnabled = true;
             this.comboBox5_4.Items.AddRange(new object[] {
             " ",
@@ -1010,6 +1052,7 @@
             // 
             // comboBox5_3
             // 
+            this.comboBox5_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_3.FormattingEnabled = true;
             this.comboBox5_3.Items.AddRange(new object[] {
             " ",
@@ -1029,6 +1072,7 @@
             // 
             // comboBox5_2
             // 
+            this.comboBox5_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_2.FormattingEnabled = true;
             this.comboBox5_2.Items.AddRange(new object[] {
             " ",
@@ -1048,6 +1092,7 @@
             // 
             // comboBox5_1
             // 
+            this.comboBox5_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox5_1.FormattingEnabled = true;
             this.comboBox5_1.Items.AddRange(new object[] {
             " ",
@@ -1084,6 +1129,7 @@
             // 
             // comboBox6_9
             // 
+            this.comboBox6_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_9.FormattingEnabled = true;
             this.comboBox6_9.Items.AddRange(new object[] {
             " ",
@@ -1103,6 +1149,7 @@
             // 
             // comboBox6_8
             // 
+            this.comboBox6_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_8.FormattingEnabled = true;
             this.comboBox6_8.Items.AddRange(new object[] {
             " ",
@@ -1122,6 +1169,7 @@
             // 
             // comboBox6_7
             // 
+            this.comboBox6_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_7.FormattingEnabled = true;
             this.comboBox6_7.Items.AddRange(new object[] {
             " ",
@@ -1141,6 +1189,7 @@
             // 
             // comboBox6_6
             // 
+            this.comboBox6_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_6.FormattingEnabled = true;
             this.comboBox6_6.Items.AddRange(new object[] {
             " ",
@@ -1160,6 +1209,7 @@
             // 
             // comboBox6_5
             // 
+            this.comboBox6_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_5.FormattingEnabled = true;
             this.comboBox6_5.Items.AddRange(new object[] {
             " ",
@@ -1179,6 +1229,7 @@
             // 
             // comboBox6_4
             // 
+            this.comboBox6_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_4.FormattingEnabled = true;
             this.comboBox6_4.Items.AddRange(new object[] {
             " ",
@@ -1198,6 +1249,7 @@
             // 
             // comboBox6_3
             // 
+            this.comboBox6_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_3.FormattingEnabled = true;
             this.comboBox6_3.Items.AddRange(new object[] {
             " ",
@@ -1217,6 +1269,7 @@
             // 
             // comboBox6_2
             // 
+            this.comboBox6_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_2.FormattingEnabled = true;
             this.comboBox6_2.Items.AddRange(new object[] {
             " ",
@@ -1236,6 +1289,7 @@
             // 
             // comboBox6_1
             // 
+            this.comboBox6_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox6_1.FormattingEnabled = true;
             this.comboBox6_1.Items.AddRange(new object[] {
             " ",
@@ -1272,6 +1326,7 @@
             // 
             // comboBox7_9
             // 
+            this.comboBox7_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_9.FormattingEnabled = true;
             this.comboBox7_9.Items.AddRange(new object[] {
             " ",
@@ -1291,6 +1346,7 @@
             // 
             // comboBox7_8
             // 
+            this.comboBox7_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_8.FormattingEnabled = true;
             this.comboBox7_8.Items.AddRange(new object[] {
             " ",
@@ -1310,6 +1366,7 @@
             // 
             // comboBox7_7
             // 
+            this.comboBox7_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_7.FormattingEnabled = true;
             this.comboBox7_7.Items.AddRange(new object[] {
             " ",
@@ -1329,6 +1386,7 @@
             // 
             // comboBox7_6
             // 
+            this.comboBox7_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_6.FormattingEnabled = true;
             this.comboBox7_6.Items.AddRange(new object[] {
             " ",
@@ -1348,6 +1406,7 @@
             // 
             // comboBox7_5
             // 
+            this.comboBox7_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_5.FormattingEnabled = true;
             this.comboBox7_5.Items.AddRange(new object[] {
             " ",
@@ -1367,6 +1426,7 @@
             // 
             // comboBox7_4
             // 
+            this.comboBox7_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_4.FormattingEnabled = true;
             this.comboBox7_4.Items.AddRange(new object[] {
             " ",
@@ -1386,6 +1446,7 @@
             // 
             // comboBox7_3
             // 
+            this.comboBox7_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_3.FormattingEnabled = true;
             this.comboBox7_3.Items.AddRange(new object[] {
             " ",
@@ -1405,6 +1466,7 @@
             // 
             // comboBox7_2
             // 
+            this.comboBox7_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_2.FormattingEnabled = true;
             this.comboBox7_2.Items.AddRange(new object[] {
             " ",
@@ -1424,6 +1486,7 @@
             // 
             // comboBox7_1
             // 
+            this.comboBox7_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox7_1.FormattingEnabled = true;
             this.comboBox7_1.Items.AddRange(new object[] {
             " ",
@@ -1460,6 +1523,7 @@
             // 
             // comboBox8_9
             // 
+            this.comboBox8_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_9.FormattingEnabled = true;
             this.comboBox8_9.Items.AddRange(new object[] {
             " ",
@@ -1479,6 +1543,7 @@
             // 
             // comboBox8_8
             // 
+            this.comboBox8_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_8.FormattingEnabled = true;
             this.comboBox8_8.Items.AddRange(new object[] {
             " ",
@@ -1498,6 +1563,7 @@
             // 
             // comboBox8_7
             // 
+            this.comboBox8_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_7.FormattingEnabled = true;
             this.comboBox8_7.Items.AddRange(new object[] {
             " ",
@@ -1517,6 +1583,7 @@
             // 
             // comboBox8_6
             // 
+            this.comboBox8_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_6.FormattingEnabled = true;
             this.comboBox8_6.Items.AddRange(new object[] {
             " ",
@@ -1536,6 +1603,7 @@
             // 
             // comboBox8_5
             // 
+            this.comboBox8_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_5.FormattingEnabled = true;
             this.comboBox8_5.Items.AddRange(new object[] {
             " ",
@@ -1555,6 +1623,7 @@
             // 
             // comboBox8_4
             // 
+            this.comboBox8_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_4.FormattingEnabled = true;
             this.comboBox8_4.Items.AddRange(new object[] {
             " ",
@@ -1574,6 +1643,7 @@
             // 
             // comboBox8_3
             // 
+            this.comboBox8_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_3.FormattingEnabled = true;
             this.comboBox8_3.Items.AddRange(new object[] {
             " ",
@@ -1593,6 +1663,7 @@
             // 
             // comboBox8_2
             // 
+            this.comboBox8_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_2.FormattingEnabled = true;
             this.comboBox8_2.Items.AddRange(new object[] {
             " ",
@@ -1612,6 +1683,7 @@
             // 
             // comboBox8_1
             // 
+            this.comboBox8_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox8_1.FormattingEnabled = true;
             this.comboBox8_1.Items.AddRange(new object[] {
             " ",
@@ -1648,6 +1720,7 @@
             // 
             // comboBox9_9
             // 
+            this.comboBox9_9.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_9.FormattingEnabled = true;
             this.comboBox9_9.Items.AddRange(new object[] {
             " ",
@@ -1667,6 +1740,7 @@
             // 
             // comboBox9_8
             // 
+            this.comboBox9_8.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_8.FormattingEnabled = true;
             this.comboBox9_8.Items.AddRange(new object[] {
             " ",
@@ -1686,6 +1760,7 @@
             // 
             // comboBox9_7
             // 
+            this.comboBox9_7.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_7.FormattingEnabled = true;
             this.comboBox9_7.Items.AddRange(new object[] {
             " ",
@@ -1705,6 +1780,7 @@
             // 
             // comboBox9_6
             // 
+            this.comboBox9_6.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_6.FormattingEnabled = true;
             this.comboBox9_6.Items.AddRange(new object[] {
             " ",
@@ -1724,6 +1800,7 @@
             // 
             // comboBox9_5
             // 
+            this.comboBox9_5.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_5.FormattingEnabled = true;
             this.comboBox9_5.Items.AddRange(new object[] {
             " ",
@@ -1743,6 +1820,7 @@
             // 
             // comboBox9_4
             // 
+            this.comboBox9_4.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_4.FormattingEnabled = true;
             this.comboBox9_4.Items.AddRange(new object[] {
             " ",
@@ -1762,6 +1840,7 @@
             // 
             // comboBox9_3
             // 
+            this.comboBox9_3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_3.FormattingEnabled = true;
             this.comboBox9_3.Items.AddRange(new object[] {
             " ",
@@ -1781,6 +1860,7 @@
             // 
             // comboBox9_2
             // 
+            this.comboBox9_2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_2.FormattingEnabled = true;
             this.comboBox9_2.Items.AddRange(new object[] {
             " ",
@@ -1800,6 +1880,7 @@
             // 
             // comboBox9_1
             // 
+            this.comboBox9_1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboBox9_1.FormattingEnabled = true;
             this.comboBox9_1.Items.AddRange(new object[] {
             " ",
