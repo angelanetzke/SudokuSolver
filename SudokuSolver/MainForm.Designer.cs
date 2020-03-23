@@ -113,6 +113,7 @@
             this.comboBox9_3 = new System.Windows.Forms.ComboBox();
             this.comboBox9_2 = new System.Windows.Forms.ComboBox();
             this.comboBox9_1 = new System.Windows.Forms.ComboBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -135,10 +136,10 @@
             this.groupBox1.Controls.Add(this.comboBox1_3);
             this.groupBox1.Controls.Add(this.comboBox1_2);
             this.groupBox1.Controls.Add(this.comboBox1_1);
-            this.groupBox1.Location = new System.Drawing.Point(15, 12);
+            this.groupBox1.Location = new System.Drawing.Point(15, 27);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(140, 89);
-            this.groupBox1.TabIndex = 0;
+            this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
             // 
             // comboBox1_1
@@ -323,10 +324,10 @@
             this.groupBox2.Controls.Add(this.comboBox2_3);
             this.groupBox2.Controls.Add(this.comboBox2_2);
             this.groupBox2.Controls.Add(this.comboBox2_1);
-            this.groupBox2.Location = new System.Drawing.Point(156, 12);
+            this.groupBox2.Location = new System.Drawing.Point(156, 27);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(140, 89);
-            this.groupBox2.TabIndex = 10;
+            this.groupBox2.TabIndex = 2;
             this.groupBox2.TabStop = false;
             // 
             // comboBox2_9
@@ -511,10 +512,10 @@
             this.groupBox3.Controls.Add(this.comboBox3_3);
             this.groupBox3.Controls.Add(this.comboBox3_2);
             this.groupBox3.Controls.Add(this.comboBox3_1);
-            this.groupBox3.Location = new System.Drawing.Point(297, 12);
+            this.groupBox3.Location = new System.Drawing.Point(297, 27);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(140, 89);
-            this.groupBox3.TabIndex = 11;
+            this.groupBox3.TabIndex = 3;
             this.groupBox3.TabStop = false;
             // 
             // comboBox3_9
@@ -699,10 +700,10 @@
             this.groupBox4.Controls.Add(this.comboBox4_3);
             this.groupBox4.Controls.Add(this.comboBox4_2);
             this.groupBox4.Controls.Add(this.comboBox4_1);
-            this.groupBox4.Location = new System.Drawing.Point(15, 99);
+            this.groupBox4.Location = new System.Drawing.Point(15, 114);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(140, 89);
-            this.groupBox4.TabIndex = 14;
+            this.groupBox4.TabIndex = 4;
             this.groupBox4.TabStop = false;
             // 
             // comboBox4_9
@@ -887,10 +888,10 @@
             this.groupBox5.Controls.Add(this.comboBox5_3);
             this.groupBox5.Controls.Add(this.comboBox5_2);
             this.groupBox5.Controls.Add(this.comboBox5_1);
-            this.groupBox5.Location = new System.Drawing.Point(156, 99);
+            this.groupBox5.Location = new System.Drawing.Point(156, 114);
             this.groupBox5.Name = "groupBox5";
             this.groupBox5.Size = new System.Drawing.Size(140, 89);
-            this.groupBox5.TabIndex = 13;
+            this.groupBox5.TabIndex = 5;
             this.groupBox5.TabStop = false;
             // 
             // comboBox5_9
@@ -1075,10 +1076,10 @@
             this.groupBox6.Controls.Add(this.comboBox6_3);
             this.groupBox6.Controls.Add(this.comboBox6_2);
             this.groupBox6.Controls.Add(this.comboBox6_1);
-            this.groupBox6.Location = new System.Drawing.Point(297, 99);
+            this.groupBox6.Location = new System.Drawing.Point(297, 114);
             this.groupBox6.Name = "groupBox6";
             this.groupBox6.Size = new System.Drawing.Size(140, 89);
-            this.groupBox6.TabIndex = 12;
+            this.groupBox6.TabIndex = 6;
             this.groupBox6.TabStop = false;
             // 
             // comboBox6_9
@@ -1263,10 +1264,10 @@
             this.groupBox7.Controls.Add(this.comboBox7_3);
             this.groupBox7.Controls.Add(this.comboBox7_2);
             this.groupBox7.Controls.Add(this.comboBox7_1);
-            this.groupBox7.Location = new System.Drawing.Point(15, 194);
+            this.groupBox7.Location = new System.Drawing.Point(15, 209);
             this.groupBox7.Name = "groupBox7";
             this.groupBox7.Size = new System.Drawing.Size(140, 89);
-            this.groupBox7.TabIndex = 15;
+            this.groupBox7.TabIndex = 7;
             this.groupBox7.TabStop = false;
             // 
             // comboBox7_9
@@ -1451,10 +1452,10 @@
             this.groupBox8.Controls.Add(this.comboBox8_3);
             this.groupBox8.Controls.Add(this.comboBox8_2);
             this.groupBox8.Controls.Add(this.comboBox8_1);
-            this.groupBox8.Location = new System.Drawing.Point(156, 194);
+            this.groupBox8.Location = new System.Drawing.Point(156, 209);
             this.groupBox8.Name = "groupBox8";
             this.groupBox8.Size = new System.Drawing.Size(140, 89);
-            this.groupBox8.TabIndex = 14;
+            this.groupBox8.TabIndex = 8;
             this.groupBox8.TabStop = false;
             // 
             // comboBox8_9
@@ -1639,10 +1640,10 @@
             this.groupBox9.Controls.Add(this.comboBox9_3);
             this.groupBox9.Controls.Add(this.comboBox9_2);
             this.groupBox9.Controls.Add(this.comboBox9_1);
-            this.groupBox9.Location = new System.Drawing.Point(297, 194);
+            this.groupBox9.Location = new System.Drawing.Point(297, 209);
             this.groupBox9.Name = "groupBox9";
             this.groupBox9.Size = new System.Drawing.Size(140, 89);
-            this.groupBox9.TabIndex = 13;
+            this.groupBox9.TabIndex = 9;
             this.groupBox9.TabStop = false;
             // 
             // comboBox9_9
@@ -1816,11 +1817,21 @@
             this.comboBox9_1.Size = new System.Drawing.Size(40, 21);
             this.comboBox9_1.TabIndex = 1;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(20, 12);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(104, 13);
+            this.label1.TabIndex = 16;
+            this.label1.Text = "Enter known values:";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(457, 301);
+            this.ClientSize = new System.Drawing.Size(451, 301);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox9);
             this.Controls.Add(this.groupBox8);
             this.Controls.Add(this.groupBox7);
@@ -1842,6 +1853,7 @@
             this.groupBox8.ResumeLayout(false);
             this.groupBox9.ResumeLayout(false);
             this.ResumeLayout(false);
+            this.PerformLayout();
 
     }
 
@@ -1937,6 +1949,7 @@
         private System.Windows.Forms.ComboBox comboBox9_3;
         private System.Windows.Forms.ComboBox comboBox9_2;
         private System.Windows.Forms.ComboBox comboBox9_1;
+        private System.Windows.Forms.Label label1;
     }
 }
 
