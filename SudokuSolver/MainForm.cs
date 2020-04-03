@@ -14,6 +14,8 @@ namespace SudokuSolver {
 			InitializeComponent();
 		}
 
+		/* Create array from values entered into form. Assign a value of 0 for
+		 * values that have not been assigned. */
 		private void submitButton_Click(object sender, EventArgs e) {
 			int[] values = new int[81];
 			foreach (Control parentControl in this.Controls) {
@@ -25,17 +27,14 @@ namespace SudokuSolver {
 							int thisValue;
 							bool isNumber = int.TryParse(thisComboBox.Text, out thisValue);
 					        if (!isNumber) {
-								thisValue = -1;
+								thisValue = 0;
 							}
 							values[index] = thisValue;
 						}
 					}					
 				}
 			}
-			for (int i = 0; i < values.Length; i++) {
-				System.Diagnostics.Debug.WriteLine($"{i} {values[i]}");
-			}
-			
+			Sudoku puzzle = new Sudoku(values);
 		}
 	}
 }
