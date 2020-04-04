@@ -37,7 +37,7 @@ namespace SudokuSolver {
 			if (!isPossible[index]) {
 				return false;
 			}
-			//Value is only one possible
+			//Square has already been solved
 			else if (IsSolved()) {
 				return false;
 			}

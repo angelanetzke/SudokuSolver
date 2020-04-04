@@ -31,6 +31,16 @@ namespace SudokuSolver {
 			Solve();
 		}
 
+		internal List<int> GetSolution() {
+			List<int> values = new List<int>();
+			foreach (Set s in rows) {
+				foreach (int i in s.GetValuesAsArray()) {
+					values.Add(i);
+				}
+			}
+			return values;
+		}
+
 		private int GetRow(int index) {
 			return index / SIZE;
 		}
@@ -44,7 +54,6 @@ namespace SudokuSolver {
 		}
 
 		private void Solve() {
-			DisplayPuzzle(); //For testing. Delete.
 			bool keepSolving = true;
 			while(keepSolving) {
 				keepSolving = false;
@@ -64,25 +73,9 @@ namespace SudokuSolver {
 					}
 				}
 			}
-			DisplayPuzzle(); //For testing. Delete.
-		}
+		}		
 
-		private void DisplayPuzzle() {
-			foreach (Set s in rows) {
-				foreach (int i in s.GetValuesAsArray()) {
-					System.Diagnostics.Debug.Write($"{i} ");
-				}
-				System.Diagnostics.Debug.WriteLine("");
-			}
-			if (IsValid()) {
-				System.Diagnostics.Debug.WriteLine("Solved");
-			}
-			else {
-				System.Diagnostics.Debug.WriteLine("Not Solved");
-			}
-		}
-
-		private bool IsValid() {
+		internal bool IsValid() {
 			bool isValid = true;
 			foreach (Set s in rows) {
 				if (!s.IsValid()) {
