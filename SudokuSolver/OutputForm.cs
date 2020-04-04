@@ -14,7 +14,7 @@ namespace SudokuSolver {
 			InitializeComponent();
 		}
 
-		public OutputForm(List<int> values) {
+		public OutputForm(int[] values) {
 			InitializeComponent();
 			foreach(Control c in this.Controls) {
 				if (c is Label) {

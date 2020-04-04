@@ -24,6 +24,11 @@ namespace SudokuSolver {
 			return valuesArray;
 		}
 
+		/* Eliminate values that have already been filled in from other Squares in Set.
+		 * Returns true if a change has been made (indicating that the program should
+		 * continue to solve). Returns false if no change has been made (indicating
+		 * that the program should terminate).
+		 */ 
 		internal bool Process() {
 			// Set has already been completely solved. Return false to indicate no change.			
 			if (squares.Count(s => s.IsSolved()) == squares.Count()) {
@@ -42,6 +47,10 @@ namespace SudokuSolver {
 			}			
 		}
 
+		/* Removes the given value as a possiblity from each Square
+		 * in the Set (unless Square is already solved or value has
+		 * already beeen eliminated from that Square.
+		 */
 		private bool EliminateFromAll(int value) {
 			bool madeChange = false;
 			foreach (Square s in squares) {

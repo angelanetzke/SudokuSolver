@@ -31,14 +31,14 @@ namespace SudokuSolver {
 			Solve();
 		}
 
-		internal List<int> GetSolution() {
+		public int[] GetSolution() {
 			List<int> values = new List<int>();
 			foreach (Set s in rows) {
 				foreach (int i in s.GetValuesAsArray()) {
 					values.Add(i);
 				}
 			}
-			return values;
+			return values.ToArray();
 		}
 
 		private int GetRow(int index) {
@@ -75,7 +75,7 @@ namespace SudokuSolver {
 			}
 		}		
 
-		internal bool IsValid() {
+		public bool IsValid() {
 			bool isValid = true;
 			foreach (Set s in rows) {
 				if (!s.IsValid()) {
