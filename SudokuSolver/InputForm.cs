@@ -22,8 +22,7 @@ namespace SudokuSolver {
 				if (c is ComboBox) {
 					ComboBox thisComboBox = c as ComboBox;
 					int index = int.Parse(thisComboBox.Name.Split('_')[1]);
-					int thisValue;
-					bool isNumber = int.TryParse(thisComboBox.Text, out thisValue);
+					bool isNumber = int.TryParse(thisComboBox.Text, out int thisValue);
 					if (!isNumber) {
 						thisValue = 0;
 					}
@@ -33,7 +32,7 @@ namespace SudokuSolver {
 			Sudoku puzzle = new Sudoku(values);
 			if (puzzle.IsValid()) {
 				label1.Text = "Solved!";
-				label1.ForeColor = Color.Black;
+				label1.ForeColor = Color.Green;
 				OutputForm outputForm = new OutputForm(puzzle.GetSolution());
 				outputForm.Show();
 			}

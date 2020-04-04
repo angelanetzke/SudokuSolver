@@ -52,11 +52,11 @@ namespace SudokuSolver {
 			return madeChange;
 		}
 
-		// Checks if there is one possibility for each Square
+		// Checks if Set contains valid solution
 		internal bool IsValid() {
 			bool isValid = true;
-			foreach (Square s in squares) {
-				if (!s.IsSolved()) {
+			for (int i = 1; i <= Sudoku.SIZE; i++) {
+				if (squares.Count(s => s.GetValue() == i) != 1) {
 					isValid = false;
 				}
 			}
